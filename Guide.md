@@ -2,8 +2,9 @@
 title: "Walkabilly Lab Manual"
 author: "Walkabilly Team"
 output:
-      html_document:
-        keep_md: true
+  html_document:
+    keep_md: yes
+  word_document: default
 ---
 
 
@@ -113,6 +114,6 @@ We use a number of different project management and communication software in th
 
 ## Github
 
-For the lab GitHub onboarding please go here. 
+For the lab GitHub onboarding please go here [https://github.com/walkabillylab/labguide/blob/master/Github_Orientation.md](https://github.com/walkabillylab/labguide/blob/master/Github_Orientation.md)
 
 
