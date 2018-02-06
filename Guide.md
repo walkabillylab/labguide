@@ -45,12 +45,12 @@ Your first tasks in the Lab are to complete the three following online training 
 
 Below are some introductory readings. Please take the time to read. We are a team and teams work better when they work with a common framework. The readings are a start.
 
-1. [Markowetz, 2015. You Are Not Working for Me; I Am Working with You. PLOS Computational Biology, 11(9): e1004387](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004387)
+1. Markowetz, 2015. You Are Not Working for Me; I Am Working with You. PLOS Computational Biology, 11(9): e1004387 [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004387](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004387)
 
-3. [Liboiron, 2017. How to run a feminist science lab meeting](https://civiclaboratory.nl/2017/03/31/how-to-run-a-feminist-science-lab-meeting/)
+3. Liboiron, 2017. How to run a feminist science lab meeting[https://civiclaboratory.nl/2017/03/31/how-to-run-a-feminist-science-lab-meeting/](https://civiclaboratory.nl/2017/03/31/how-to-run-a-feminist-science-lab-meeting/)
     + Everything except the Myers-Briggs junk!
 
-3. [Kearns and Gardiner, 2011. The care and maintenance of your advisor. Nature, 469(570)](http://www.nature.com/nature/journal/v469/n7331/full/nj7331-570a.html)
+3. Kearns and Gardiner, 2011. The care and maintenance of your advisor. Nature, 469(570) [http://www.nature.com/nature/journal/v469/n7331/full/nj7331-570a.html](http://www.nature.com/nature/journal/v469/n7331/full/nj7331-570a.html)
 
 ## Work Themes
 
@@ -72,26 +72,26 @@ My father in law is a old wizened lawyer who trains new lawyers on managing thei
 
 Here are some quick readings about reproducibility
 
-* [Simply Statistics Blog, The Real Reason Reproducibility is important](http://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/)
-* [BMJ, Open science and reproducible research](http://www.bmj.com/content/344/bmj.e4383)
+* Simply Statistics Blog, The Real Reason Reproducibility is important[http://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/](http://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/)
+* BMJ, Open science and reproducible research[http://www.bmj.com/content/344/bmj.e4383](http://www.bmj.com/content/344/bmj.e4383)
 
 ## Population Health Perspective
 
 We have a broad public health perspective in the lab. This means that even if you are coding, doing a systematic review, or doing advanced stats, you should try and keep the population health perspective in mind. What is the population health perspective? Here are some readings: 
 
-1. [Rose G. 2001. Sick individuals and sick populations. International Journal of Epidemiology, 30(3),427-432.](https://doi.org/10.1093/ije/30.3.427)
-2. [Hawe P, Potvin L. 2009. What is population health intervention research? Canadian Journal of Public Health. 100(1),1](http://journal.cpha.ca/index.php/cjph/article/view/1748)
-3. [Fuller D, Buote R, Stanley K. 2017. A glossary for big data in population and public health: discussion and commentary on terminology and research methods. Journal of Epidemiology & Community Health. 71:1113-1117.](http://dx.doi.org/10.1136/jech-2017-209608)  
+1. Rose G. 2001. Sick individuals and sick populations. International Journal of Epidemiology, 30(3),427-432. [https://doi.org/10.1093/ije/30.3.427](https://doi.org/10.1093/ije/30.3.427)
+2. Hawe P, Potvin L. 2009. What is population health intervention research? Canadian Journal of Public Health. 100(1),1. [http://journal.cpha.ca/index.php/cjph/article/view/1748](http://journal.cpha.ca/index.php/cjph/article/view/1748)
+3. Fuller D, Buote R, Stanley K. 2017. A glossary for big data in population and public health: discussion and commentary on terminology and research methods. Journal of Epidemiology & Community Health. 71:1113-1117. [http://dx.doi.org/10.1136/jech-2017-209608](http://dx.doi.org/10.1136/jech-2017-209608)  
 
  
 ![](http://i0.kym-cdn.com/photos/images/original/000/260/393/a37.jpg)
 
 ## Systems
 
-The most important part of a system is being able to articulate that system. [Dr. Raul Pacheco-Vega](https://twitter.com/raulpacheco) has some great blog posts about academic writing, productivity, and being a nice person. I recommend the following few blog posts.
+The most important part of a system is being able to articulate that system. If you can't describe your system, you don't have a system. [Dr. Raul Pacheco-Vega](https://twitter.com/raulpacheco) has some great blog posts about academic writing, productivity, and being a nice person. I recommend the following few blog posts.
 
-1. [Improving your academic writing: My top 10 tips](http://www.raulpacheco.org/2013/02/improving-your-academic-writing-my-top-10-tips/)
-2. [8 sequential steps to write a research paper from start to finish](http://www.raulpacheco.org/2016/04/8-tips-to-write-a-research-paper-from-start-to-finish-relatively-quick-and-easy/)
+1. Improving your academic writing: My top 10 tips. [http://www.raulpacheco.org/2013/02/improving-your-academic-writing-my-top-10-tips/](http://www.raulpacheco.org/2013/02/improving-your-academic-writing-my-top-10-tips/)
+2. 8 sequential steps to write a research paper from start to finish.[http://www.raulpacheco.org/2016/04/8-tips-to-write-a-research-paper-from-start-to-finish-relatively-quick-and-easy/](http://www.raulpacheco.org/2016/04/8-tips-to-write-a-research-paper-from-start-to-finish-relatively-quick-and-easy/)
 
 **Key features are**  
 
