@@ -30,9 +30,17 @@ You are now familiar with how to connect RStudio with Github. It's time to pract
 
 ### GIF
 
-1. Your task here is to post your name and an animated GIF that represents your experience with this tutorial to the [gif](https://github.com/walkabillylab/gif) repository in the Walkabilly Lab organization. Something like this: 
+1. Your task here is to post your name and an animated GIF that represents your experience with this tutorial to the [gif](https://github.com/walkabillylab/gif) repository in the Walkabilly Lab organization. Something like this:   
+
 
 #### Daniel Fuller
 
-![https://media.giphy.com/media/CLP0Y6KtvEtsQ/source.gif](https://media.giphy.com/media/CLP0Y6KtvEtsQ/source.gif)
+![](https://media.giphy.com/media/l44QqOHp4RuFEOxMc/giphy.gif)
 
+For this you will need to use your RMarkdown skills. A GIF is really just an image so you can use the `![Text](URL)` code to insert the image of your GIF. 
+
+### Analysis
+
+The second task is to conduct a simple analysis using an existing dataset from the lab. 
+
+1. Log into the lab server and find the data in `/
