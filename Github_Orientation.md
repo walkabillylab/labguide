@@ -34,6 +34,5 @@ You are now familiar with how to connect RStudio with Github. It's time to pract
 
 #### Daniel Fuller
 
-<iframe src="https://giphy.com/embed/CLP0Y6KtvEtsQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/simple-dubbed-CLP0Y6KtvEtsQ">via GIPHY</a></p>
-
+![https://media.giphy.com/media/CLP0Y6KtvEtsQ/source.gif](https://media.giphy.com/media/CLP0Y6KtvEtsQ/source.gif)
 
