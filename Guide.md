@@ -28,8 +28,6 @@ Which I translate to mean
 
 > We provide positive critcism and work honestly to do the best possible research. 
 
-![](http://images.complex.com/complex/image/upload/c_limit,w_680/fl_lossy,pg_1,q_auto/cvv8cts2bogemlyduqat.jpg)
-
 ## First Tasks
 
 Your first tasks in the Lab are to complete the three following online training sessions. Each is approximately 1 hour in length and required in order to access data. 
@@ -83,9 +81,6 @@ We have a broad public health perspective in the lab. This means that even if yo
 2. Hawe P, Potvin L. 2009. What is population health intervention research? Canadian Journal of Public Health. 100(1),1. [http://journal.cpha.ca/index.php/cjph/article/view/1748](http://journal.cpha.ca/index.php/cjph/article/view/1748)
 3. Fuller D, Buote R, Stanley K. 2017. A glossary for big data in population and public health: discussion and commentary on terminology and research methods. Journal of Epidemiology & Community Health. 71:1113-1117. [http://dx.doi.org/10.1136/jech-2017-209608](http://dx.doi.org/10.1136/jech-2017-209608)  
 
- 
-![](http://i0.kym-cdn.com/photos/images/original/000/260/393/a37.jpg)
-
 ## Systems
 
 The most important part of a system is being able to articulate that system. If you can't describe your system, you don't have a system. [Dr. Raul Pacheco-Vega](https://twitter.com/raulpacheco) has some great blog posts about academic writing, productivity, and being a nice person. I recommend the following few blog posts.
@@ -109,14 +104,15 @@ Here is a guide from the London School of Economics [PDF download](http://blogs.
 
 The team has weekly meetings. At these meetings you will be asked to provide a summary of your work and any questions or concerns you have. Focus the summary of your work on specific asks for the team or unanswered questions. How can we, as a team, contribute to your work or reflection. Are there general concepts we might be able to help with? Are there specific skills that someone could help with? We strive to meet the principles of the [Feminist Lab Meeting](https://civiclaboratory.nl/2017/03/31/how-to-run-a-feminist-science-lab-meeting/). 
 
+## Software
 
-### Structure weekly meetings to keep people engaged in others work
-### More detailed and better orientation to the lab
-### Learning ressources to be less lost
-### Help directly
-### Update on projects
-### 
+We use a number of different project management and communication software in the lab. If you want to get a head start you can familiarize yourself with:  
 
+1. [Slack](https://slack.com/)
+2. [Trello](https://trello.com/)
 
+## Github
+
+For the lab GitHub onboarding please go here. 
 
 
