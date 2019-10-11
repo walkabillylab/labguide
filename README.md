@@ -18,20 +18,28 @@ Which I translate to mean
 
 > We provide positive critcism and work honestly to do the best possible research. 
 
-## Onboarding Checklist
+## Joining the lab
 
-* Complete online course
+__coming soon__
+
+## Onboarding Checklist
+* View onboarding information [here](https://github.com/walkabillylab/labguide/blob/master/Guide.md)
+* Complete online courses
 * Read introductory documents
     * Lab Philosophy
     * Reproducibility
     * Population Health
 * Get familiar with systems
 
+## Github Checklist
+* Complete Github Readings [here](https://github.com/walkabillylab/labguide/blob/master/Github_Orientation.md)
+* Post GIF to the [GIF Repo](https://github.com/walkabillylab/gif/blob/master/gif.md)
+
 ## Off boarding Checklist
-* View offboarding information here []()
+* View offboarding information [here](https://github.com/walkabillylab/labguide/blob/master/offboarding.md)
 * Complete the offboard feedback form
 * Complete all end of job paperwork
-* Make list of work on projects that are ongoing. In each case list what still needs doing, next steps and who the project (or part of the project) has been passed on to and how the people involved can access work that has been done. Copy lab manager and Dr. Fuller on final report for to ensure smooth transition. 
+* Transition planning
 * Return keys and any other equipment you have, ensure this information is present in equipment databases
 * Remove all personal items from lab
 * Duck
