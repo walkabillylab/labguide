@@ -1,10 +1,9 @@
 ---
-title: "Walkabilly Lab Manual"
-author: "Walkabilly Team"
+title: "BEAP Lab Manual"
+author: "BEAP Lab"
 output:
   html_document:
     keep_md: yes
-  word_document: default
 ---
 
 
@@ -19,7 +18,7 @@ Our vision is
 
 Our mission is  
 
-> To conduct research that will help design urban and rural environments that equitably increase physical activity for the entire population
+> To conduct research that will help design urban environments that equitably increase physical activity for the entire population
 
 Our motto is  
 
