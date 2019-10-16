@@ -18,7 +18,7 @@ Which I translate to mean
 
 > We provide positive critcism and work honestly to do the best possible research. 
 
-## Joining the lab
+## How to Apply
 
 Application to the lab is highly competitive. We are a small group, and we receive a high volume of applications for membership. Applicants should get in touch with the lab director, Dr. Daniel Fuller, at dfuller@mun.ca with the email subject line "BEAP Lab Membership." You should receive an automated message with a quiz. You will need to answer the quiz and provide:  
 
