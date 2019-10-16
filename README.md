@@ -20,7 +20,12 @@ Which I translate to mean
 
 ## Joining the lab
 
-__coming soon__
+Application to the lab is highly competitive. We are a small group, and we receive a high volume of applications for membership. Applicants should get in touch with the lab director, Dr. Daniel Fuller, at dfuller@mun.ca with the email subject line "BEAP Lab Membership." You should receive an automated message with a quiz. You will need to answer the quiz and provide:  
+
+* A cover letter outlining why you would like to join the lab and the contribution you think you would make to lab activities
+* A resume, including the names and contact information for two references
+* An unofficial transcript
+* A 500 word research proposal related to a BEAP lab project
 
 ## Onboarding Checklist
 * View onboarding information [here](https://github.com/walkabillylab/labguide/blob/master/Guide.md)
