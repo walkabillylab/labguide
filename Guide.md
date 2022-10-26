@@ -34,10 +34,9 @@ Your first tasks in the Lab are to complete the three following online training 
 
 1. Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2)
 [https://tcps2core.ca/welcome](https://tcps2core.ca/welcome)   
-2. Newfoundland Personal Health Information Training: Direct Contact with Personal Health Information 
-[http://nlchi.skillbuilder.ca/home](http://nlchi.skillbuilder.ca/home)   
-3. CIHR Sex and Gender in the Analysis of Data from Human Participants
-[http://www.cihr-irsc-igh-isfh.ca/course/index.php](http://www.cihr-irsc-igh-isfh.ca/course/index.php)   
+2. CIHR Sex and Gender in the Analysis of Data from Human Participants
+[http://www.cihr-irsc-igh-isfh.ca/course/index.php](http://www.cihr-irsc-igh-isfh.ca/course/index.php) 
+3. Introduction to Health Equity [https://learn.nccdh.ca/](https://learn.nccdh.ca/)
 
 ## Introductory Readings
 
